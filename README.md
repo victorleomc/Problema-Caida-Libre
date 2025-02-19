@@ -19,12 +19,12 @@ Permite al usuario ingresar la altura inicial desde la cual el objeto es soltado
 
 1. Clona este repositorio:
    ```
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone https://github.com/victorleomc/Problema-Caida-Libre/
    ```
 
 2. Navega a la carpeta del repositorio:
    ```
-   cd simulador-caida-libre
+   cd Problema-Caida-Libre
    ```
 
 3. (Opcional) Crea un entorno virtual y activa el entorno:
@@ -43,7 +43,7 @@ Permite al usuario ingresar la altura inicial desde la cual el objeto es soltado
 
 1. Ejecuta el script:
    ```
-   python caida_libre.py
+   python simulador_caida_libre.py
    ```
 
 2. Selecciona la opción para iniciar la simulación.
